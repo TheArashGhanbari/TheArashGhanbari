@@ -1,16 +1,14 @@
 # Hey 👋 I'm Arash Ghanbari
 
-**Front-End & Game Developer**  
-Learning, coding, and creating cool projects.
+**Front-End & Game Developer**
 
-## 📌 About Me
-- Front-End & 2D Game Developer
-- JavaScript, React, Unity
-- Based in Tehran, Iran  
+I build web applications and 2D games.  
+Feel free to check out my [Portfolio + Resume](https://github.com/thearashghanbari/Portfolio) — it includes some of my selected works and experiences.
 
-## 📌 Portfolio  
-[My Projects + resume](https://github.com/thearashghanbari/Portfolio)
+I've also worked on several React projects while learning and experimenting with modern front-end tools.  
+You can find them here 👉 [React Projects Repository](https://github.com/thearashghanbari/React-Projects)
 
-## 📌 Contact  
-📧 the.arash.ghanbari@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/thearashghanbari)
+---
+
+📧 **Email:** the.arash.ghanbari@gmail.com  
+🌐 **LinkedIn:** [linkedin.com/in/thearashghanbari](https://linkedin.com/in/thearashghanbari)
