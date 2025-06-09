@@ -9,7 +9,7 @@ Learning, coding, and creating cool projects.
 - Based in Tehran, Iran  
 
 ## 📌 Portfolio  
-[My Projects](https://github.com/thearashghanbari/Portfolio)
+[My Projects + resume](https://github.com/thearashghanbari/Portfolio)
 
 ## 📌 Contact  
 📧 the.arash.ghanbari@gmail.com  
