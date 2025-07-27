@@ -3,7 +3,7 @@
 **Front-End & Game Developer**
 
 I build web applications and 2D games.  
-Feel free to check out my [Resume](https://github.com/thearashghanbari/Resume).
+Feel free to check out my Resume.
 
 ---
 
