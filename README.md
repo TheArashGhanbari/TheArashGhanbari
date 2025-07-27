@@ -3,7 +3,7 @@
 **Front-End & Game Developer**
 
 I build web applications and 2D games.  
-Feel free to check out my Resume.
+Feel free to check out my [Resume](Arash_Ghanbari_Resume.pdf).
 
 ---
 
