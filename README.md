@@ -2,7 +2,7 @@
 
 **Front-End & Game Developer**
 
-I build web applications and 2D games. .
+I build web applications and 2D games.
 
 ---
 
