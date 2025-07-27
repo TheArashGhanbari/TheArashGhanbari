@@ -3,7 +3,7 @@
 **Front-End & Game Developer**
 
 I build web applications and 2D games.  
-Feel free to check out my [Portfolio + Resume](https://github.com/thearashghanbari/Portfolio) — it includes some of my selected works, experiences, and projects built with React and Next.js.
+Feel free to check out my [Portfolio + Resume](https://github.com/thearashghanbari/Portfolio) — it includes some of my selected works, experiences, and projects.
 
 ---
 
